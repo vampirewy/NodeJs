@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wangyi01/NodeJs#readme",
   "devDependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "supervisor": "^0.12.0"
   }
 }
